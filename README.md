@@ -10,7 +10,7 @@
 <br/><br/><br/>
 
 * * *
-### 📜 Interested in <img align='right' src="https://github-readme-stats.vercel.app/api?username=WagyuShark&show_icons=true"><br/>
+### 📜 Interested in <br/>
 * DevOps
 * Infrastructure / Server side engineering
 * Live Video Streaming
